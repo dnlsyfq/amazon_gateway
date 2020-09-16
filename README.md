@@ -1,3 +1,62 @@
+
+
+
+# AWS Identity and Access Management 
+
+* Manage users
+* Manage security credentials : access keys
+* Permissions to control which AWS resourcess users can access
+
+## AWS Identity and Access Management 
+
+* Manage IAM Users and their access 
+Create users and assign them individual security credentials ( access keys, passwords and multi factor authentication devices)
+
+* Manage IAM Roles and their permissions 
+Similar to User. An AWS Identity with permission policies that determine what identity can and cannot do in AWS
+
+* Manage federated users and their permissions
+Enable identity federation to allow existing users in your enterprise to access the AWS Management Console, to call AWS APIs and to access resources, without the need to create an IAM user for each identity 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # AWS Gateway
 API Gateway is a managed service provided by AWS that makes creating, deploying and maintaining APIs easy. API Gateway includes features to:
 
