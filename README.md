@@ -1,3 +1,6 @@
+1. Introduction to AWS Identity and Access Management (IAM)
+2. Introduction to Amazon Simple Storage Service (S3)
+3. Using Open Data with Amazon S3
 
 
 
@@ -19,10 +22,19 @@ Similar to User. An AWS Identity with permission policies that determine what id
 Enable identity federation to allow existing users in your enterprise to access the AWS Management Console, to call AWS APIs and to access resources, without the need to create an IAM user for each identity 
 
 
+# Amazon S3
 
+* Object storage service 
+* Create Bucket
+* Upload to bucket
 
+* Bucket -> Permission -> Block Public Access -> Deselect 
+* File -> Permission -> Public Access
 
+## Control access to entire bucket 
 
+* Bucket -> Permission -> Bucket Policy
+  1. AWS Policy generator -> copy arn
 
 
 
