@@ -1,7 +1,7 @@
 1. Introduction to AWS Identity and Access Management (IAM)
 2. Introduction to Amazon Simple Storage Service (S3)
 3. Using Open Data with Amazon S3
-
+4. Introduction to AWS Lambda
 
 
 # AWS Identity and Access Management 
@@ -38,7 +38,9 @@ Enable identity federation to allow existing users in your enterprise to access 
 
 
 
+# AWS Lambda 
 
+* compute service runs code in response to events and manages compute resources
 
 
 
